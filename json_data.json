@@ -1,0 +1,22 @@
+[
+ {"id": 1, "pids": [2], "name": "Max Mustermann", "gender": "male", "shortname": "MM", "fid": 3, "mid": 4},
+ {"id": 2, "pids": [2], "name": "Florian Mustertyp", "gender": "male", "shortname": "FM", "fid": 9, "mid": 10},
+ {"id": 3, "pids": [4], "name": "Gudwin Mustermann", "gender": "male", "shortname": "GM", "fid": 5, "mid": 6},
+ {"id": 4, "pids": [3], "name": "Gisela Musterfrau", "gender": "female", "shortname": "GM", "mid": 7, "fid": 8},
+ {"id": 5, "pids": [6, 20], "name": "Theodor Mustermann", "gender": "male", "shortname": "TM"},
+ {"id": 6, "pids": [5], "name": "Anna Musterberg", "gender": "female", "shortname": "AM", "fid": 13, "mid": 14},
+ {"id": 7, "pids": [8], "name": "Heidrun Musterfrau", "gender": "female", "shortname": "HM"},
+ {"id": 8, "pids": [7], "name": "Alwin Musterstern", "gender": "male", "shortname": "AM"},
+ {"id": 9, "pids": [10], "name": "August Mustertyp", "gender": "male", "shortname": "AM", "fid": 11, "mid": 12},
+ {"id": 10, "pids": [9], "name": "Anneliese Musterstift", "gender": "female", "shortname": "AM", "fid": 19, "mid": 20},
+ {"id": 11, "pids": [12], "name": "August Mustertyp", "gender": "male", "shortname": "AM"},
+ {"id": 12, "pids": [11], "name": "Bertha Musterberg", "gender": "female", "shortname": "BM", "fid": 15, "mid": 16},
+ {"id": 13, "pids": [14], "name": "Johann Musterberg", "gender": "male", "shortname": "JM", "fid": 17, "mid": 18},
+ {"id": 14, "pids": [13], "name": "Johanna Musterfrau", "gender": "female", "shortname": "JM"},
+ {"id": 15, "pids": [16], "name": "August Musterberg", "gender": "male", "shortname": "AM", "fid": 17, "mid": 18},
+ {"id": 16, "pids": [15], "name": "Johanna Mustereisen", "gender": "female", "shortname": "JM"},
+ {"id": 17, "pids": [18], "name": "Theodor Musterberg", "gender": "male", "shortname": "TM"},
+ {"id": 18, "pids": [17], "name": "Sophie Musterstern", "gender": "female", "shortname": "SM"},
+ {"id": 19, "pids": [20], "name": "Johann Musterstift", "gender": "male", "shortname": "JM"},
+ {"id": 20, "pids": [19, 5], "name": "Anneliese Mustereisen", "gender": "female", "shortname": "AM"}
+]
